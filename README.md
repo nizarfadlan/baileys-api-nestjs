@@ -7,7 +7,7 @@ This is a NestJS API project for [Baileys New](https://github.com/WhiskeySockets
 ## Requirements
 
 - Node.js version 18.16.0 or higher
-- Prisma [supported databases](https://www.prisma.io/docs/reference/database-reference/supported-databases). Tested PostgreSQL
+- Typeorm. Tested PostgreSQL
 
 ## Setup
 
