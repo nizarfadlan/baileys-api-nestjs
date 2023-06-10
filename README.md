@@ -12,7 +12,7 @@ This is a NestJS API project for [Baileys New](https://github.com/WhiskeySockets
 ## Setup
 
 1. Copy the `.env.example` file and rename it into .env
-2. Update your provider in the `prisma/schema.prisma` file if you're using database other than PostgreSQL.
+2. Update your provider in the `src/config/providers/database.provider.ts` file if you're using database other than PostgreSQL.
 3. Install the dependencies by running `npm install`
 
 ## Running the app
